@@ -41,6 +41,6 @@ ServiceNow handles elements of these capabilities on the platform because it **m
 ServiceNow is a java application working across 3 tiers served by a MariaDB/MySQL database, java application servers and accessed through a browser.
 
 ## Applications on the platform
-The chart below highlights the applications available on the ServiceNow platform.
+The chart below highlights the applications available on the ServiceNow platform. This slide shows all the applications available on the platform as of the Kingston Release.
 
 ![ServiceNow Universe](https://github.com/jamesnyika/motivf-snow/blob/master/common/%20SNOWKingston.png)

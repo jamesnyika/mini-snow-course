@@ -45,5 +45,5 @@ The chart below highlights the applications available on the ServiceNow platform
 
 ![ServiceNow Universe][universe]
 
-[universe]: (https://github.com/jamesnyika/motivf-snow/raw/master/common/SNOWKingston.png)
+[universe]: (https://github.com/jamesnyika/motivf-snow/blob/master/common/SNOWKingston.png)
  "ServiceNow Kingston Release Applications"

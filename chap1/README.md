@@ -43,7 +43,4 @@ ServiceNow is a java application working across 3 tiers served by a MariaDB/MySQ
 ## Applications on the platform
 The chart below highlights the applications available on the ServiceNow platform.
 
-![ServiceNow Universe][universe]
-
-[universe]: (https://github.com/jamesnyika/motivf-snow/blob/master/common/SNOWKingston.png)
- "ServiceNow Kingston Release Applications"
+![ServiceNow Universe](https://github.com/jamesnyika/motivf-snow/blob/master/common/%20SNOWKingston.png)

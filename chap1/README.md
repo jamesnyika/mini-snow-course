@@ -9,4 +9,30 @@ for building applications out of the box that any system would have such as:
 * A reporting and analytics engine - for producing output and summary results of data captured on the platform
 * A Role Based Access security infrastructure - to secure data and applications built and running on the platform
 * A Tasking capability - to created scheduled or ad-hoc tasks for users on the platform
+* Surveys and Assessments - A mechanism of getting back feedback from users
+* Service Portals - the ability to create intranet / internet websites that expose capabilities to platform users.
+* Application Development Tools - a browser based studio for building applications and application components such as tables, rules, forms and data capture Tools
+* APIs - a common, always accessible application programming interface, wrapped in security, allowing external systems to access ServiceNow data.
+
+
+## What is ServiceNow Not?
+ServiceNow is not :
+* A low latency, high throughput data processing pipeline
+* A machine learning engine
+* Application Middleware
+* An Enterprise Service Bus (ESB)
+* Only  a ticketing or only a request management system
+* A financial or accounting management system
+* A complete HR and Payroll Solution
+* A scanner or sensor system
+* A SIEM
+* A cross domain solution for bridging data transfers across security enclaves or domains
+* A High Load ETL tool, despite having some ETL capabilities
+* A records or document management system
+* A set of popular cleaning products.
+
+ServiceNow handles elements of these capabilities on the platform because it **must** but not as a target/final capability. What makes ServiceNow a good partner product to these types of tools is its ability to integrate with such tools to add value where those tools are weaker. These tend to be in areas such as :
+* A better, holistic and more enjoyable **User experience**
+* **Broad Visibility** across multiple data sets, systems, departments and processes.
+* A consistent engine for automation of business processes across the datasets and capabilities of the tools listed above
 *

@@ -1,9 +1,7 @@
-#Book Review By James Nyika
-
-
-This document is an advanced review of the manuscript text of this book as feedback to the author on the subject within
-For more information and additional questions or work requests please reach out through github or create an issue.
+#Developer 101 - ServiceNow
+### Training for beginners
+This  repo is a repository for a basic ServiceNow 101 course on building business applications on the ServiceNow platform
 
 # Table of Contents
 
-[Building Etherium Dapps - Manning Books](./ethereumdapps/README.md)
+[1-ServiceNow Application Basics](./chap1/README.md)

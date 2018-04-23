@@ -15,7 +15,7 @@ Once completed, you will have received an instance link that will not be reclaim
 
 
 #### 2- Javascript Knowledge
-You will need to obtain such an instance before taking this course as well as get some rudimentary understanding of javascript. The link below is to a basic javascripting courseon YouTube. Use this course to quickly understand the basic syntax of the language.
+You will need to obtain such an instance before taking this course as well as get some rudimentary understanding of javascript. The link below is to a basic javascript course on YouTube. Use this course to quickly understand the basic syntax of the language.
 
 [A Basic Javascript Course](https://www.youtube.com/watch?v=vEROU2XtPR8)
 

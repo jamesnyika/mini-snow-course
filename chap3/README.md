@@ -37,6 +37,12 @@ After an inspection the IG must produced
 ### 3 - Implementation
 You have been awarded the contract to build this system. However, due to minimal stakeholder availability, you must build the described system in ServiceNow to meet these Requirements
 
+### Reference documents
+[Inspection Report](../common/documents/InspectionForm.docx)
+[Inspection Status Report Form](../common/documents/ISRBlankForm.doc)
+
+
+
 ---
 
 [Chapter 4 - Data Model and Design ](../chap4/README.md)

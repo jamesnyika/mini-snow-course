@@ -26,7 +26,11 @@ Tables are the primary construct of your data model. Each table requires that yo
 * Security Settings
 
 ## Week Assignment
-* 
+*
 * Create a drawing or written description of your model
 * Create your model in ServiceNow for next week and ensure that you put them all under the same module (menu).
 * Ensure you commit your changes to your repository
+
+---
+
+[Chapter 5 - Loading Data Quickly ](../chap5/README.md)

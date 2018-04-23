@@ -1,5 +1,5 @@
-#Developer 101 - ServiceNow
-### Training for beginners
+# Developer 101 - ServiceNow
+### Training for beginners on the platform
 This  repo is a repository for a basic ServiceNow 101 course on building business applications on the ServiceNow platform
 
 # Contents

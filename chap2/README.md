@@ -36,4 +36,4 @@ What you have now created is a scoped application. This means this application r
 
 Next we will describe the requirements for the application we will be building.
 
-[Next - Chapter 3]()
+[Next - Chapter 3](https://github.com/jamesnyika/motivf-snow/blob/master/chap3/README.md)

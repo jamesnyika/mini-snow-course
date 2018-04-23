@@ -14,7 +14,7 @@ We will cover the following areas on the first Day
 * [3-Application Requirements](./chap3/README.md)
   *   What are the requirements for this application. A business description of the problem at hand
 * [4-Data Model Design](./chap3/README.md)
- *  What are the requirements for this application. A business description of the problem at hand
+ *  How would you model this domain. Create a database model to capture this domain as best you can.
 
 ## Day 2 - Working with Data and the UI
  We will cover the following areas on the second training day

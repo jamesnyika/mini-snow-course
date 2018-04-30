@@ -7,7 +7,7 @@ Each of these can use a scheduler to do so or be done on demand.
 
 ---
 
-## Loading Data usingUsing a REST API
+## Loading Data Using a REST API
 ServiceNow has a number of documented examples on invoking web services such as those listed [here](https://docs.servicenow.com/bundle/istanbul-application-development/page/integrate/examples/concept/c_InboundWebServiceExamples.html)
 Every invocation of REST / SOAP services in ServiceNow supports passing business data from any table to the service.
 
@@ -18,7 +18,7 @@ Very similar to adding a JMS activity, a REST activity offers up different execu
 ![Rest](https://github.com/jamesnyika/SNOWUseCases/raw/master/images/RestActivity.png)
 
 ### From the REST Explorer and into a script
-Using this mode of operation, we use the REST API Explorer to test an actual real life Web Service and then servicenow will generate the required code for you to place into a script
+Using this mode of operation, we use the REST API Explorer to test an actual real life Web Service and then servicenow will generate the required code for you to place into a script. Access the REST Explorer by typing REST in the filter navigation
 
 ### Use a REST Message object to run against a service
 Configure a REST message and use the 'Test' option to execute it
@@ -36,7 +36,7 @@ quickly take advantage of this technique.
 ---
 
 
-###  Unloading Data
+##  Unloading Data
 One of the questions you might get is whether ServiceNow supports the CMIS protocol.  Servicenow does not natively support the CMIS protocol but it does offer mechanisms for pushing content/files to third party systems using FTP, HTTP(s), REST, SOAP or SCP (among other methods).
 
 In this example we configure an [Export Set] which we tie to a schedule as well. To fulfil this use case, you would have the MID server installed in

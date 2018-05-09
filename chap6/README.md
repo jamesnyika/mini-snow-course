@@ -5,9 +5,27 @@ In studio you can now redefine the user interface for your application. First ta
 
 ## Opening the form editor
 
-In studio, select any one of the forms that have been autocreated for you and you should see something like This
+In studio, select any one of the forms that have been autocreated for you and you should see something like this:
 
 ![Sample Form Designer](https://github.com/jamesnyika/motivf-snow/blob/master/chap6/images/FormEditor.png)
+
+You can try the following:
+
+ * Drag new fields into the canvas from the left side
+ * Create a completely new field on the form.
+ * Create a new section, rename it and add new fields into it
+ * Modify an existing field's settings (the cog on the right) and change its size or even default value
+
+ For each of these changes, you can save the change and then review the actual changes to the form.
+
+
+ ## Opening the Form Layout Manager
+
+ An alternative method for modifying forms is to use the layout manager. You can access this from any form by right clicking (on Mac it is ctrl-click) to show a menu. Select Form Layout and you get a screen like this:
+
+ ![Sample Form Designer](https://github.com/jamesnyika/motivf-snow/blob/master/chap6/images/FormLayout1.png)
+
+ ![Sample Form Designer](https://github.com/jamesnyika/motivf-snow/blob/master/chap6/images/FormLayout2.png)
 
 
 

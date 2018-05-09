@@ -23,14 +23,16 @@ You can try the following:
 
  An alternative method for modifying forms is to use the layout manager. You can access this from any form by right clicking (on Mac it is ctrl-click) to show a menu. Select Form Layout and you get a screen like this:
 
+ First select Form layout
+
  ![Sample Form Designer](https://github.com/jamesnyika/motivf-snow/blob/master/chap6/images/FormLayout1.png)
+
+ ---
+ Then make changes to the form
 
  ![Sample Form Designer](https://github.com/jamesnyika/motivf-snow/blob/master/chap6/images/FormLayout2.png)
 
-
-
-
-
+ For more information on this, review the form design section of  your reference books.
 
 ---
 

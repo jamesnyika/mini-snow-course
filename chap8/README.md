@@ -11,11 +11,14 @@ To access it, go to the 'Source Control' menu and select Link to Source control.
 Add your credentials to that they look as follows
 ![ModuleEdit](https://github.com/jamesnyika/motivf-snow/blob/master/chap8/images/git2.png)
 
+You can now commit changes by clicking on Commit changes
 
+![ModuleEdit](https://github.com/jamesnyika/motivf-snow/blob/master/chap8/images/git3.png)
 
 ### Tasks
-1. See if you can put order into your Modules
-2. See if you can nest your modules under other Modules
+1. Configure your project to link to your git repo
+2. Commit your changes to your git repo
+3. Try and stash changes and then re-apply them over an update you made later.
 
 ---
 

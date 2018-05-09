@@ -26,10 +26,16 @@ Tables are the primary construct of your data model. Each table requires that yo
 * Security Settings
 
 ## Week Assignment
-*
+ 
 * Create a drawing or written description of your model
 * Create your model in ServiceNow for next week and ensure that you put them all under the same module (menu).
 * Ensure you commit your changes to your repository
+
+## Extra credit
+* Open up the Studio by typing 'Studio' in your application filter navigation.
+* Once opened, create a new application and give it a name you like. 
+* You can then 'Create Application File' to create a new artifact for you project. Select table and click 'Create' to create a new table. You can then use the UI to add new columns
+* Create one of the tables you drew for your model and create the columns as you defined them. 
 
 ---
 

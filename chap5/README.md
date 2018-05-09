@@ -90,7 +90,9 @@ Below is an example of an LDAP User import mechanism that targets a datasource a
 
 ![Step](https://github.com/jamesnyika/SNOWUseCases/raw/master/images/SImport.png)
 
-
+### Tasks
+1. Create some sample dummy data for one or more of your tables
+2. Load the data into the table.
 
 
 

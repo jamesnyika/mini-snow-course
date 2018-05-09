@@ -36,4 +36,4 @@ Notice that modules can be saved to the favorites tab by clicking on the star in
 
 ---
 
-[Chapter 7 - Menus and Access](../chap7/README.md)
+[Chapter 8 - Managing Updates and Sources](../chap8/README.md)

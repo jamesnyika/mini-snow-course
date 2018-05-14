@@ -3,24 +3,27 @@ Compositing dashboards in Servicenow requires the creation of a dashboard and ad
 The steps below show an example of how the dashboards can be added in.
 
 ### Step 1
-On the filter navigation, search for 'Performance and select the Dashboards menu item.'
-On
+On the filter navigation, search for 'Performance' and select the Dashboards menu item. Create a new dashboard and fill out the new dashboard inform
+as shown below
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db1.png)
-
 ### Step 2
-asdf
+Once created you will see the dashboard name in the top left dashboard dropdown. Click on edit and choose if you are goign to add a new tab or select
+from the other options shown.
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db2.png)
 
 ### Step 3
-asdf
+Click on the 'Add Content' button to select from many different options, the content you want to add in.
+As you select from the different filters and options, you will see a short thumbnail of the chart where possible and then you can  choose in the layout
+where you want to add the dashboard content.
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db3.png)
 
 ### Step 4
-asdf
+Select a report and click 'Add here' to choose where it gets placed
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db4.png)
 
 ### Step 5
-asdf
+Close out the windows and you should see your report. Hover over the top right portion of your chart window to see various option to modify the chart
+size, color etc. 
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db5.png)
 
 

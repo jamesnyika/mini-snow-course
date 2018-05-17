@@ -14,10 +14,10 @@ nothing right now, but it can be configured to perform complex actions like send
 
 Here is the empty implementation of the button
 
-![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap14/images/s1.png)
+![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap14/images/s2.png)
 
 
-![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap14/images/s1.png)
+![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap14/images/s3.png)
 
 
 Notice you get a range of choices of where on the form you would like the UI Action to be displayed.

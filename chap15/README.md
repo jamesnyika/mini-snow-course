@@ -23,7 +23,7 @@ Here are the key screens to fill out on a record producers
 
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap15/images/rp3.png)
 
-4.  Use a template if you have Once
+4.  Use a template if you have one already. This can help pre-populate values. 
 
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap15/images/rp1.png)
 

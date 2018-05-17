@@ -28,3 +28,7 @@ This use case requires use of the MID server so ensure that it is running or you
 You can run a test of the export set or wait for the scheduler to run and then locate the file under the exports/{path} you provided for the target.
 Below you can see the file content of the export
 ![Step](https://github.com/jamesnyika/SNOWUseCases/raw/master/images/Export5.png)
+
+---
+
+[Chapter 13 - Business Rules](../chap13/README.md)

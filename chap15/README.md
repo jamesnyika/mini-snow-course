@@ -39,8 +39,7 @@ Here are the key screens to fill out on a record producers
 
 ## Assignment
 
-See if you can learn about UI Policies and Data Policies from your text and how they vary.
-How would you use those different types of configuration items in your application ?
+Create a few different catalog items where it makes sense to get some practice
 ---
 
-[Chapter 15- Record Producers and Catalog Items](../chap15/README.md)
+[Chapter 16- Service Portals](../chap16/README.md)

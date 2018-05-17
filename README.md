@@ -34,20 +34,20 @@ We will cover the following areas on the first Day
    * [9-Creating Reports](./chap9/README.md)
      *  Create the building blocks for dashboards
    * [10-Compositing  Dashboards](./chap10/README.md)
-    *  Bring together your reports into Dashboards
+     *  Bring together your reports into Dashboards
    * [11-Reusing Existing Visualizations on the platform](./chap11/README.md)
-    *  Reuse existing visualization on the platform for your own applications
+     *  Reuse existing visualization on the platform for your own applications
    * [12-Data Export](./chap12/README.md)
-    *  Schedulers and getting data out using standard structured formats.
+     *  Schedulers and getting data out using standard structured formats.
 
 ## Day 4 - Advanced Capabilities
    We will cover the following areas on the fourth day
 
 * [13-Business Rules](./chap13/README.md)
-   *  Create the building blocks for dashboards
+   *  How do you configure simple and complex business rules for your tables
 * [14-UI Actions](./chap14/README.md)
-   *  Bring together your reports into Dashboards
+   *  Providing interactivity for the end user
 * [15-Record Producers and Catalog Items](./chap15/README.md)
-    *  Reuse existing visualization on the platform for your own applications
+    *  Enter into the world of self service
 * [16-Service Portals](./chap16/README.md)
-   *  Schedulers and getting data out using standard structured formats.
+   * Provide a friendly web based interface for users to serve themselves

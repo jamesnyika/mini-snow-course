@@ -27,4 +27,4 @@ See if you can learn about UI Policies and Data Policies from your text and how 
 How would you use those different types of configuration items in your application ?
 ---
 
-[Chapter 15- UI Actions](../chap15/README.md)
+[Chapter 15- Record Producers and Catalog Items](../chap15/README.md)

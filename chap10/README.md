@@ -23,7 +23,7 @@ Select a report and click 'Add here' to choose where it gets placed
 
 ### Step 5
 Close out the windows and you should see your report. Hover over the top right portion of your chart window to see various option to modify the chart
-size, color etc. 
+size, color etc.
 ![Step](https://github.com/jamesnyika/motivf-snow/blob/master/chap10/images/db5.png)
 
 
@@ -35,4 +35,4 @@ size, color etc.
 
 ---
 
-[Chapter 11 - Compositing Dashboards](../chap11/README.md)
+[Chapter 11 - Reusing Existing Visualizations on the platform](../chap11/README.md)

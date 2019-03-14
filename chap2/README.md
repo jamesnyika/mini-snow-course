@@ -9,7 +9,7 @@ To take this class you will require a ServiceNow instance. An instance is a runn
 
 Once you signup and provide a username and password, you will receive credentials in the email you have provided. These credentials are for the developer program. Once inside - go to the "Manage" menu item and you can then REQUEST an instance.
 
-Please request a Kingston Instance.
+Please request an Instance. Release is immaterial at this point.
 
 Once completed, you will have received an instance link that will not be reclaimed provided you keep your instance accessed at least every 10 days or so.
 

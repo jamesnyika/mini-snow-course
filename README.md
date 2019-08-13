@@ -1,6 +1,6 @@
-# Developer 101 - ServiceNow
+# Power User - ServiceNow
 ### Training for beginners on the platform
-This  repo is a repository for a basic ServiceNow 101 course on building business applications on the ServiceNow platform
+This  repo is a repository for a basic ServiceNow 101 course on configuring business applications on the ServiceNow platform
 
 # Contents
 
